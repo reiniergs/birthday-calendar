@@ -3,4 +3,4 @@ birthday-calendar
 
 React birthday component
 
-<a href="reiniergs.github.io/birthday-calendar">Demo</a>
+<a href="http://reiniergs.github.io/birthday-calendar">Demo</a>
